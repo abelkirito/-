@@ -9,7 +9,7 @@
 
 <h2>3.windows下安装ubuntu双系统</h2>https://blog.csdn.net/zh175578809/article/details/78576193
 
-<h2>4.git-sql-driver/mysql调用解析</h2>
+<h2>4.go-sql-driver/mysql调用解析</h2>
 https://blog.csdn.net/westhod/article/details/80706836?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1
 
 
