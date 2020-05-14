@@ -4,6 +4,6 @@
 <br>
 <h2>1.阿里云ECS  ubuntu  server图形界面安装</h2>https://blog.csdn.net/dk_0228/article/details/54571867 <br>
 在阿里云购买的云服务器选择ubuntu镜像时在控制台下使用，没有图形界面，此时可以按照上述博文介绍的方法配置图形界面。注意：若服务器配置较低安装图形界面后会很卡。<br><br>
-2.
+<h2>2.git远程分支更新到本地</h2>https://blog.csdn.net/wangzhong1979/article/details/52788973
 
 
