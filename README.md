@@ -3,5 +3,5 @@
 #
 <br>
 1.阿里云ECS  ubuntu  server图形界面安装
--
+------
 https://blog.csdn.net/dk_0228/article/details/54571867
